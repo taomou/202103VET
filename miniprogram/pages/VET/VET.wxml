@@ -1,0 +1,10 @@
+<!--pages/VET/VET.wxml-->
+<view class="test1" hover-class="none" hover-stop-propagation="false">
+
+    <text class="" selectable="false" space="false" decode="false" bindtap='testclick'>
+        测试
+
+        
+    </text>
+    
+</view>
